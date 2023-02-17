@@ -13,5 +13,5 @@ First repository created in Github
 
 > "Fintech"
 
-![](saved_local_image.jpg)
+![](Fintech.png)
 
